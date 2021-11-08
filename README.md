@@ -1,6 +1,5 @@
-# MenloHacks2021
-Project: MenloHacks2021 Official Website
+# MenloHacks 2022
+Project: MenloHacks VI Official Website
 
 Description: Website for the MenloHacks2022 hackathon.
-
-*** Work In Progress ***
+Contributors: Mitsuka Kiyohara, Marvin Mok, Chris Donnelly, Michael Fang, Sanaa Kapur
