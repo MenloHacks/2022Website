@@ -2392,11 +2392,45 @@ input:required {
       -ms-transform: rotate(180deg);
       transform: rotate(180deg); }
 
+/* track */
+.track-area {
+  background: #151853;
+  text-align: center;
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+
+.track-area h1,h2,h3 {
+  color: white;
+}
+
+.track-area table th,td {
+  width: 33%;
+  padding: 5px 20px 10px 20px;
+}
+
+.track-area table td {
+  text-align: left;
+}
+
+.track-area a {
+  color: yellow;
+}
+
+.track-area ul {
+  list-style-type: circle;
+  list-style-position: inside;
+} 
+
+.track-area ul li {
+  padding: 5px 0px;
+}
+
 /* :: 17.0 Schedule Area CSS */
 .our-schedule-area {
   position: relative;
   z-index: 1;
-  background-color: #151853; }
+  background-color: #111343; }
   .our-schedule-area .schedule-tab {
     position: relative;
     z-index: 1;
