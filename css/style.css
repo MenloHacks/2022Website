@@ -9,6 +9,10 @@
 	font-style: normal;
 }
 
+body{
+	margin-left:-3vw;
+
+}
 a.hiddentext{
 	color:rgb(17, 19, 67) !important;
 }
@@ -1158,3 +1162,18 @@ text-shadow: none;
 	.glyph .fs1 {
 		font-size: 2em;
 	}
+	.narrow{
+		max-width: 100%;
+	}
+
+	.track-area{
+		font-size: 3vw;
+	}
+
+.container{
+	font-size:1vw;
+}
+
+.container h3{
+	font-size:3vw;
+}
